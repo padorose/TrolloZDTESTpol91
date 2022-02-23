@@ -8,10 +8,3 @@ This is an exercise that consolidates the range of material from the online cour
 ## Technologies
 Project is created with:
 * Postamn version: 9.13.2
-
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
